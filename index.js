@@ -2,15 +2,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Solicitar e armazenar o nome do herói fornecido pelo usuário
         Console.Write("Digite o nome do herói: ");
         string nome = Console.ReadLine();
 
-        // Solicitar e armazenar a quantidade de experiência (XP) fornecida pelo usuário
         Console.Write("Digite a quantidade de XP do herói: ");
         int xp = int.Parse(Console.ReadLine());
 
-        // Estrutura de decisão para determinar o nível do herói com base na quantidade de XP
         string nivel;
 
         if (xp < 1000)
@@ -46,10 +43,8 @@ class Program
             nivel = "Radiante";
         }
 
-        // Exibir a mensagem com o nome e o nível do herói
         Console.WriteLine($"O Herói de nome {nome} está no nível de {nivel}");
 
-        // Aguardar a entrada do usuário antes de fechar o programa
         Console.ReadLine();
     }
 }
