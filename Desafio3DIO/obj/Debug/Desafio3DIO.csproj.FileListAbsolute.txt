@@ -1,0 +1,8 @@
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\bin\Debug\Desafio3DIO.exe.config
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\bin\Debug\Desafio3DIO.exe
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\bin\Debug\Desafio3DIO.pdb
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\obj\Debug\Desafio3DIO.csproj.AssemblyReference.cache
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\obj\Debug\Desafio3DIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\obj\Debug\Desafio3DIO.csproj.CoreCompileInputs.cache
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\obj\Debug\Desafio3DIO.exe
+C:\Users\ewert\Desktop\4ºSEMESTRE\POO2\Desafio3DIO\obj\Debug\Desafio3DIO.pdb
